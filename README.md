@@ -1,4 +1,4 @@
-# Employeemanager-java-react
+# simple blog-java-react
 ### running the server
 
 ### connect to Mysql
